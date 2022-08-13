@@ -1,0 +1,6 @@
+# Jekyll
+_site/
+.jekyll-metadata
+
+# OS X
+.DB_Store
