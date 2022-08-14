@@ -1,5 +1,3 @@
-# Hellen Ferrari Home Page
-
 This is the code for the [Hellen Ferrari Home Page](https://www.hferrari.com).
 
 ![Hellen Ferrari Home Page Screenshot](/assets/img/screenshot.png)
