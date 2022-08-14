@@ -8,4 +8,4 @@
 layout: default
 ---
 
-{% include about.html %}
+{% include about.md %}
