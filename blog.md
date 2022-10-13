@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: iOS Development Blog
+title: Blog
 permalink: /blog/
 ---
 
